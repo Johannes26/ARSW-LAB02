@@ -7,7 +7,7 @@ public class PrimeFinderThread extends Thread{
 
 	
 	int a,b;
-	
+	int cont=0;
 	private List<Integer> primes=new LinkedList<Integer>();
 	
 	public PrimeFinderThread(int a, int b) {
@@ -21,8 +21,11 @@ public class PrimeFinderThread extends Thread{
 			if (isPrime(i)){
 				primes.add(i);
 				System.out.println(i);
+				cont++;
 			}
+		
 		}
+		//System.out.println("--------------"+cont);
 		
 		
 	}
