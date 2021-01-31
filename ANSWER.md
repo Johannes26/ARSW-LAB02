@@ -14,6 +14,7 @@ Una vez ejecutado el programa podemos ver que para la ejecucion de los numeros p
 ![](https://github.com/Johannes26/ARSW-LAB02/blob/master/img/putno1.PNG)
 
 ### 2. 
+![](https://github.com/Johannes26/ARSW-LAB02/blob/master/img/punto2.PNG)
 
 ### 3.
 
